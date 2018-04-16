@@ -13,6 +13,8 @@
 ```
 - Add your queries to queries/.
 - Modify code as needed.
+- `npm install`
+- `node app.js`
 
 ## TODO
 - Make this modular and adaptable. (eg. remove IDF)
